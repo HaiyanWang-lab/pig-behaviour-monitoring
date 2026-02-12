@@ -40,7 +40,7 @@ path_to_dataset/PigBehaviour
     ├── pen_03
     └── pen_04
 
-3. Dataset Annotation Format
+2. Dataset Annotation Format
 ------------------------------------------------
 Follow MOTChallenge annotation format for ground truth (gt.txt):
 
