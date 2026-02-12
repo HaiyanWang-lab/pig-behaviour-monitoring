@@ -1,0 +1,6 @@
+0 standing
+1 attacking
+2 attacking
+3 feeding
+4 side lying
+5 prone lying
