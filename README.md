@@ -143,16 +143,4 @@ You can also consider reading and citing our related work, [GIAOTracker](https:/
 }
 ```
 
-## Acknowledgement
 
-A large part of the codes, ideas and results are borrowed from [DeepSORT](https://github.com/nwojke/deep_sort), [JDE](https://github.com/Zhongdao/Towards-Realtime-MOT), [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) and [ByteTrack](https://github.com/ifzhang/ByteTrack). Thanks for their excellent work!
-
-
-### &#8627; Stargazers
-[![Stargazers repo roster for @dyhBUPT/StrongSORT](http://reporoster.com/stars/dyhBUPT/StrongSORT)](https://github.com/dyhBUPT/StrongSORT/stargazers)
-
-### &#8627; Forkers
-[![Forkers repo roster for @dyhBUPT/StrongSORT](http://reporoster.com/forks/dyhBUPT/StrongSORT)](https://github.com/dyhBUPT/StrongSORT/network/members)
-
-### &#8627; Visitors
-[![Visit tracker](https://clustrmaps.com/map_v2.png?cl=ffffff&w=896&t=tt&d=1OL4KYXswQB7_QtL579x0AO8vPCLmYogJvHv2DawZg8&co=2d78ad&ct=ffffff)](https://clustrmaps.com/site/1bznb)
