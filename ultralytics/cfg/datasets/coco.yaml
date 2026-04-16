@@ -1,0 +1,13 @@
+
+#train: /media/dzy/deep2/train_data/pig/train/images
+#val: /media/dzy/deep2/train_data/pig/val/images
+#nc: 3
+#names: ['0', '1', '2' ]
+
+
+
+train: /home/wangxp/pig_data_all/attack_diet/train/
+val: /home/wangxp/pig_data_all/attack_diet/val/
+nc: 4
+names: ['0', '1', '2' ,'3' ]
+
