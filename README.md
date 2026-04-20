@@ -8,11 +8,11 @@ This project adapts StrongSORT and YOLOv11 for pig monitoring tasks, focusing on
 ## Environment Setup
 Create a Conda environment:
 
-conda create -n pig-tracking python=3.8 -y
-conda activate pig-tracking
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-pip install opencv-python scipy scikit-learn==0.19.2
-pip install ultralytics tqdm pandas numpy
+- conda create -n pig-tracking python=3.8 -y
+- conda activate pig-tracking
+- pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+- pip install opencv-python scipy scikit-learn==0.19.2
+- pip install ultralytics tqdm pandas numpy
 
 # Pig_Behavior_Dataset
 
