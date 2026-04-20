@@ -4,18 +4,16 @@ An optimized multi-object tracking framework for real-time pig behaviour monitor
 ## Abstract
 This project adapts StrongSORT and YOLOv11 for pig monitoring tasks, focusing on occlusion, low light, and identity switching in real farm environments.
 
+
 ## Environment Setup
 Create a Conda environment:
-```bash
 conda create -n pig-tracking python=3.8 -y
 conda activate pig-tracking
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 pip install opencv-python scipy scikit-learn==0.19.2
 pip install ultralytics tqdm pandas numpy
 
-## 
-# Pig_Behavior_Dataset
-
+## Pig_Behavior_Dataset
 This project is used to publish the pig behavior dataset collected and annotated by our research team for behavior recognition, behavior detection, and individual tracking tasks in group-housed environments.
 
 The dataset contains original surveillance videos and corresponding annotations, including **individual tracking** and **pig multi-behavior detection** labels.
