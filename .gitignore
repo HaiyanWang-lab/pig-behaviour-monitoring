@@ -1,0 +1,8 @@
+datasets/
+*.pt
+*.pth
+*.zip
+*.rar
+*.tar
+__pycache__/
+*.so
